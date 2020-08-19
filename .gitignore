@@ -1,2 +1,7 @@
+ master
 .vs\
 debug\
+
+*.txt
+a/
+ master
