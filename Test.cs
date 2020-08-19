@@ -6,5 +6,6 @@ System.Console.WriteLine( "还是个");
 
 int a=0;
   Console.WriteLine(a);
+        Console.WriteLine("adasdsadadadas");
 }
 }
